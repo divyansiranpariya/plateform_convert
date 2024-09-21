@@ -2,7 +2,7 @@
 
 This  application "Plateform Convert" demonstrates the use of various Flutter widgets, state management with provider, and UI components like Neumorphic UI for styling. Each page fulfills specific functionalities related to chatting, call history, settings, and contact details, offering a comprehensive user experience.
 
-* for mobile:"https://github.com/divyansiranpariya/plateform_convert_app"
+
 
 
 ## Features
