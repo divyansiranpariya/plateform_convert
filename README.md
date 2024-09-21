@@ -15,7 +15,7 @@ This  application "Plateform Convert" demonstrates the use of various Flutter wi
 - Categorization of contacts (All, Unread, Groups)
 - Displays call history entries with contact names and numbers.
 - Allows users to view past calls at a glance.
-- Integrates with `Callprovider` to dynamically update call history.
+- Integrates with `CallProvider` to dynamically update call history.
 - Displays current date and time.
 - Allows users to change the date and time using buttons.
 - Integrates with `DateTimeProvider` to manage date and time state.
@@ -33,7 +33,7 @@ This  application "Plateform Convert" demonstrates the use of various Flutter wi
 * provider
 *  url_launcher
 
-## Screenshorts
+## Screenshots
 ![chat1](https://github.com/user-attachments/assets/4f9e1151-967c-4ad1-acd3-28786b6c2776)
 ![chat10](https://github.com/user-attachments/assets/fbfe9bb6-fb82-494f-ba85-2d5c1ab08a07)
 ![chat11](https://github.com/user-attachments/assets/29df4f26-88b6-4ccd-b259-478f3b32da3d)
